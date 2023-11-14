@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.conteiner {
+	position: absolute;
+	left: 10px;
+  width: 1000px;
+	height: 400px;
+	  background-color: blanc;
+}
+.text1{
+	left: 20px;
+	top: 10px;
+	position:absolute;
+	font-size: 18px;
+}
+.text2{
+	position: absolute;
+	top: 40px;
+	left: 20px;
+	font-size: 16px;
+}
+.foto{
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	top: 100px;
+	left: 20px;
+	border:  5px rgb(237, 237, 245) solid
+}
+.text3{
+	position: absolute;
+	top: 70px;
+	left:40px ;
+	font-size: 14px;
+}
+.text5{
+	font-style: italic;
+	color: rgb(76, 76, 245);
+}
+.text4{
+	position:absolute ;
+	top:100px;
+	left:200px;
+
+}
+b{
+	color: rgb(29, 29, 236);
+}
+span{
+	color: rgb(96, 96, 226);
+}
+.text6{
+	position: absolute;
+	top:310px;
+	left: 20px;
+
+}
+.text7{
+	position: absolute;
+	top: 310px;
+	left: 200px;
+}
